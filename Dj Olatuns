@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DJ Olatuns | Official Website</title>
+  <style>
+    body {
+      margin: 0;
+      background: #0b0b14;
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    header { padding: 65px 20px; }
+    h1 { font-size: 48px; color: #ff3158; }
+    p { color: #ddd; line-height: 1.7; }
+    section { padding: 30px 20px; }
+    a {
+      display: inline-block;
+      background: #ff3158;
+      color: white;
+      padding: 12px 22px;
+      border-radius: 25px;
+      text-decoration: none;
+      margin: 8px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <p>THE SOUND • THE VIBE • THE ENERGY</p>
+    <h1>DJ OLATUNS</h1>
+    <p>Welcome to my official website!</p>
+    <p>Music, entertainment, events and unforgettable vibes.</p>
+    <a href="#contact">Book DJ Olatuns</a>
+  </header>
+  <section>
+    <h2>About Me</h2>
+    <p>Bringing people together through music and entertainment.</p>
+  </section>
+  <section>
+    <h2>Music & Mixes</h2>
+    <p>Stay tuned for my latest DJ mixes and updates.</p>
+  </section>
+  <section id="contact">
+    <h2>Bookings & Contact</h2>
+    <p>Contact DJ Olatuns for events and collaborations.</p>
+    <a href="https://github.com/djolatuns1">My GitHub</a>
+  </section>
+</body>
+</html>
